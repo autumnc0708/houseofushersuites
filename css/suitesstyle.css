@@ -1,0 +1,49 @@
+body {
+ background-color: #000000;
+}
+#headerBox {
+  font-size: 20px;
+  text-align: center;
+  color: white;
+  margin-left: 250px;
+  margin-right: 250px;
+  margin-bottom: 100px;
+  background-image: url("image2.jpg");
+  overflow: auto;
+  float: inherit;
+  border: 2px solid black;
+  text-indent: inherit;
+  padding: 150px;
+  padding-bottom: 250px;
+}
+
+#headerBox2 {
+  font-size: 20px;
+  text-align: center;
+  color: white;
+  margin-left: 250px;
+  margin-right: 295px;
+  margin-bottom: 100px;
+  background-image: url("image3.jpg");
+  overflow: auto;
+  float: inherit;
+  text-indent: inherit;
+  padding: 150px;
+  padding-bottom: 230px;
+}
+
+#headerBox3 {
+  font-size: 20px;
+  text-align: center;
+  color: white;
+  margin-left: 250px;
+  margin-right: 275px;
+  margin-bottom: 100px;
+  background-image: url("image4.jpg");
+  overflow: auto;
+  float: inherit;
+  border: 2px solid black;
+  text-indent: inherit;
+  padding: 150px;
+  padding-bottom: 250px;
+}
